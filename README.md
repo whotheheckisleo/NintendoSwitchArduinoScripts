@@ -23,7 +23,7 @@ A simple script that spams the A button. It's the first script I made for the Ar
 
 There are other Pokemon you can shiny hunt via this method, this was also mentioned in AustinJohnPlay's video about shiny hunting methods (if I'm not mistaken it was the 1st one mentioned)
 
-## Scripts I will to do in the future
+## Scripts I will try to do in the future
 
 ### Pokemon Legends ZA
 
