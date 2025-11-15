@@ -23,13 +23,29 @@ A simple script that spams the A button. It's the first script I made for the Ar
 
 There are other Pokemon you can shiny hunt via this method, this was also mentioned in AustinJohnPlay's video about shiny hunting methods (if I'm not mistaken it was the 1st one mentioned)
 
+Can be found on [this file](Pokemon%20Legends%20ZA/spam_A_Button.ino)
+
+#### Wild Zone 3 Shiny Hunting
+
+Another simple script, but this time we spam the left joystick down. In Wild Zone 3 there is a tower where you can use a similar method to the one in the "Spam A Button" one where we climb up and down the tower within the Wild Zone, resulting in constant respawning of the Pokemon in the area. The Pokemon you can catch this way are:
+
+- Pancham
+- Flabebe
+- Pikachu
+- Litleo
+- Skiddo
+- Espurr
+
+You may also be able to spawn shinies in the nearby rooftop as well but I have not tested it yet. This method is also explained in AustinJohnPlay's video, it's specifically the 2nd one.
+
+Can be found on [this file](Pokemon%20Legends%20ZA/wild_zone_3_shinyhunt.ino)
+
 ## Scripts I will try to do in the future
 
 ### Pokemon Legends ZA
 
-- Wild Area 3 shiny hunting (the one you simply keep the Joystick down)
 - Auto bench shiny hunting
-- Auto shiny hunting
+- Auto shiny hunting for other wild zones (most likely next target: flying to Wild Zone 5 because it also hunts for Wild Zone 16)
 
 ### Pokemon Scarlet/Violet
 
