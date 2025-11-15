@@ -10,44 +10,49 @@ The library I am using is [this one made by lefmarna](https://github.com/lefmarn
 
 In order to setup your Arduino, follow [this guide from GBATemp](https://gbatemp.net/threads/nintendo-switch-control-library-create-controller-macros-using-arduino-leonardo.623729/)
 
+After setting up the Arduino IDE as the guide above says, you just use those scripts in your Arduino device.
+
 ## Scripts currently on the repo
 
+For Pokemon Legends ZA:
+
+- Spam A Button (for shiny hunting in the Lyssandre Cafe)
+- Wild Zone 3 Shiny Hunting
+- Bench Shiny Hunting
+- Wild Zone 5 Shiny Hunting (also helps with Wild Zone 16 spawns)
+
+## FAQ
+
+Q: Does this work for Switch 2?
+
+A: I don't know. As I already said, I do not own a Switch 2 therefore I cannot test there.
+
+Q: Will I get banned for using these scripts?
+
+A: Short answer - Probably not.
+
+Long answer: I can't possibly know. There is always a risk when it comes to Nintendo. The GBATemp guide exists since 2022 and the library we use is probably even older, Nintendo would have patched it already. But since all you do is emulate a Switch-compatible controller's movements then it's very unlikely
+
+Q: Don't those shiny hunting scripts make shinies worth less?
+
+A: That's up to you. You are free to not use the scripts if you feel they make processes easy. Any Pokemon obtained via those scripts is 100% legit since it was caught in-game without any external device altering the Pokemon itself.
+
+Q: Can you make this script for this game?
+
+A: Most likely not, especially if I do not own the game. I don't know much about Arduino scripting actually. I'm just trying to find out what works for my cases and I'm also posting the scripts on GitHub in case others may find them useful.
+
+## TO-DO List
+
+### General
+
+- Make a more efficient setup function for the scripts
+
 ### Pokemon Legends ZA
 
-#### Spam A Button
-
-A simple script that spams the A button. It's the first script I made for the Arduino because it was ridiculously simple. The main use for this script is shiny hunting in the Lyssandre Cafe, specifically two of the spawns:
-
-- The Honedge line
-- The Beldum line
-
-There are other Pokemon you can shiny hunt via this method, this was also mentioned in AustinJohnPlay's video about shiny hunting methods (if I'm not mistaken it was the 1st one mentioned)
-
-Can be found on [this file](Pokemon%20Legends%20ZA/spam_A_Button.ino)
-
-#### Wild Zone 3 Shiny Hunting
-
-Another simple script, but this time we spam the left joystick down. In Wild Zone 3 there is a tower where you can use a similar method to the one in the "Spam A Button" one where we climb up and down the tower within the Wild Zone, resulting in constant respawning of the Pokemon in the area. The Pokemon you can catch this way are:
-
-- Pancham
-- Flabebe
-- Pikachu
-- Litleo
-- Skiddo
-- Espurr
-
-You may also be able to spawn shinies in the nearby rooftop as well but I have not tested it yet. This method is also explained in AustinJohnPlay's video, it's specifically the 2nd one.
-
-Can be found on [this file](Pokemon%20Legends%20ZA/wild_zone_3_shinyhunt.ino)
-
-## Scripts I will try to do in the future
-
-### Pokemon Legends ZA
-
-- Auto bench shiny hunting
 - Auto shiny hunting for other wild zones (most likely next target: flying to Wild Zone 5 because it also hunts for Wild Zone 16)
 
 ### Pokemon Scarlet/Violet
 
+- Auto battling in Academy Ace Tournament (requires strong sweeper)
 - Auto egg hatching
 - Auto egg receive
