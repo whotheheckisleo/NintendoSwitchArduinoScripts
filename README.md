@@ -50,7 +50,8 @@ A: Most likely not, especially if I do not own the game. I don't know much about
 
 ### Pokemon Legends ZA
 
-- Auto shiny hunting for other wild zones (most likely next target: flying to Wild Zone 5 because it also hunts for Wild Zone 16)
+- Auto shiny hunting for other wild zones
+- Auto battle implementation for Restaurant Le Nah (helper for the 1000 battle quest)
 
 ### Pokemon Scarlet/Violet
 
