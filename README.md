@@ -46,6 +46,7 @@ A: Most likely not, especially if I do not own the game. I don't know much about
 ### General
 
 - Make a more efficient setup function for the scripts
+- Experiment with delays to find the most efficient ones.
 
 ### Pokemon Legends ZA
 
