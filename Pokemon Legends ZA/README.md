@@ -43,3 +43,18 @@ Similarly to the bench shiny hunting method, I also used the code I found in [ab
 Before you start using this method, you need to fly to Wild Zone 5. Along with the Wild Zone 5 spawns, you also reset some of Wild Zone 16's spawns, making it a very solid shiny hunting method.
 
 Can be found on [this file](wild_zone_5_shinyhunt.ino)
+
+## Wild Zone 19 Shiny Hunting
+
+The Wild Zone 5 file was a pretty solid base to start experimenting for other wild zones. Wild Zone 19 is a good wild zone to shiny hunt since you have access to:
+
+- Eevee
+- Furfrou
+- Kangaskhan
+- Audino
+- Drampa (Day only)
+- Clefairy (Night only)
+
+Before you start using this method, you need to fly to Wild Zone 19, just like with Wild Zone 5.
+
+Can be found on [this file](wild_zone_19_shinyhunt.ino)
