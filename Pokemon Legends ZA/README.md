@@ -1,6 +1,6 @@
 # Pokemon Legends ZA Scripts
 
-In this file I explain the scripts in the Pokemon Legends ZA folder.
+In this file I explain the scripts in the Pokemon Legends ZA folder. The script decisions below are written in the order they were made.
 
 ## Spam A Button
 
@@ -58,3 +58,15 @@ The Wild Zone 5 file was a pretty solid base to start experimenting for other wi
 Before you start using this method, you need to fly to Wild Zone 19, just like with Wild Zone 5.
 
 Can be found on [this file](wild_zone_19_shinyhunt.ino)
+
+## Wild Zone 15 (Cafe Ultimo) Shiny Hunting
+
+In the repository I mentioned earlier I also found a Wild Zone 15 shiny hunting script. Unfortunately I could not figure out whether the steps they used were actually for Wild Zone 15 or whether maybe they had a different starting place than me. Therefore I decided to make my own version of the Wild Zone 15 shiny hunting script based on my own testing.
+
+Wild Zone 15 has access to quite a few Pokemon you may want to shiny hunt, but be aware of the differences between day and night spawns.
+
+Before you start using this method, you need to fly to Cafe Ultimo, which is located within Wild Zone 15.
+
+**Warning:** It is very likely that while doing the Cafe Ultimo method, you may get aggro from nearby wild Pokemon. If that happens, you cannot fly out of the area until you lose aggro (by catching or defeating the Pokemon or by running away from the area). Therefore I do not suggest this script for shiny hunting in this area. A macro controller would be much more efficient for this specific method.
+
+Can be found on [this file](wild_zone_15_shinyhunt.ino)
